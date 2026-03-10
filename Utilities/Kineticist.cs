@@ -139,7 +139,7 @@ namespace ChainInfusion.Utilities
         /// <summary>
         /// Defines bonus damage. Set half_bonus for energy blasts.
         /// </summary>
-        public static ContextRankConfig Step3_rank_bonus(bool half_bonus)
+        public static ContextRankConfig Step3_rank_bonus(bool half_bonus = false)
         {
             var KineticistMainStatProperty = Main.Library.Get<BlueprintUnitProperty>("f897845bbbc008d4f9c1c4a03e22357a");
             var progression = ContextRankProgression.AsIs;
