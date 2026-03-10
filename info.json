@@ -1,0 +1,10 @@
+{
+    "Id": "ChainInfusion",
+    "DisplayName": "ChainInfusion",
+    "Author": "JasonStroon",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.18.0",
+    "Requirements": [],
+    "AssemblyName": "ChainInfusion.dll",
+    "EntryMethod": "ChainInfusion.Main.Load"
+}
