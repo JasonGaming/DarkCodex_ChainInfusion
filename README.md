@@ -1,6 +1,6 @@
 ## Basic Summary
 
-This is a backport of the "Chain Infusion" feature from [DarkCodex](https://github.com/Truinto/DarkCodex). All credits go to [Truinto](https://github.com/Truinto) for creating the original code.
+This is a backport of the "Chain Infusion" feature from [Fumi's Codex](https://github.com/Truinto/KingmakerFumi). All credits go to [Truinto](https://github.com/Truinto) for creating the original code.
 
 This project does depend on [KingmakerModMaker](https://github.com/lucianposton/KingmakerModMaker), so ensure that it's in the same directory as this project. This project should work with 4.8 .NET & 2.0 Harmony. The main branch is the main version that only works with electric/thunderstorm blasts, while the universal branch is the version that supports all blasts.
 
