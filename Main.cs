@@ -161,7 +161,7 @@ namespace ChainInfusion
                     "Each additional attack originates from the previous target, which could alter cover and other conditions. " +
                     "Each additional target takes 1d6 fewer points of damage than the last, and you can’t chain the blast back to a previous target. " +
                     "You can continue chaining your blasts until it misses or it's reduced to a single damage die.",
-                   "f942f82c01c34c7da5f1131f5484e8b4",
+                   "6c21030891c54b0bbb206b11678f4ee2",
                    (icon),
                    FeatureGroup.KineticBlastInfusion,
                    Helpers.PrerequisiteFeaturesFromList(new BlueprintFeature[] { electric_blast, tstorm_blast }, true),
